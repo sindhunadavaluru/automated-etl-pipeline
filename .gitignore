@@ -1,0 +1,21 @@
+
+# Python virtual environments
+.venv/
+.venv311/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated database files
+data/processed/*.db
+
+# Log files
+logs/*.log
+
+# IDE settings
+.vscode/
+
+# Environment variables and secrets
+.env
